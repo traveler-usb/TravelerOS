@@ -34,4 +34,4 @@ TravelerOS is maintained by [Adrian](https://github.com/YOUR_USERNAME), the foun
 
 ---
 
-**TravelerOS** — *Your OS, wherever you go.*
+**TravelerOS** — *A linux distro in your USB drive.*
