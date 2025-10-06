@@ -9,7 +9,7 @@ TravelerOS is a lightweight and stable linux distribution based on Q4OS, which i
 - **Lightweight** — Only taking up 700 MB of RAM, Good for old computers.
 - **Customizable.** — Thanks to KDE Plasma, you can customize pretty much anything!
 - **Easy to use** — Perfect for migrating to Linux from Windows.
-- **No Bloatware.** — No useless junk, just a web browser, a image viewer, a file manager, an app store, and settings.
+- **No Bloatware.** — No useless junk, just a web browser, an image viewer, a file manager, an app store, and settings.
 
 ## 📦 System Requirements
 
