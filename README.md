@@ -1,4 +1,6 @@
-# TravelerOS
+#    <img width="39" height="39" alt="TravelerOS Logo" src="https://github.com/user-attachments/assets/0be56b9c-beb9-4902-aad1-190d1d53a390" />                TravelerOS
+
+<img width="1920" height="1080" alt="Screenshot_20260712_152315" src="https://github.com/user-attachments/assets/87ca1159-658d-4544-9658-83d203cd559c" />
 
 TravelerOS is a lightweight and stable linux distribution based on Q4OS, which is Debian based. It is built for USB drives, and not hard drives. TravelerOS comes with KDE Plasma 6. TravelerOS is customized to be a portable linux distribution meant for USB drives, although you could boot it from a CD, or SD card, if possible. TravelerOS is also a bit lightweight, only taking up as low as 800 MB of RAM. If you want it to be lower, consider installing TravelerOS Lite, for old computers. TravelerOS is also very customizable, thanks to KDE Plasma, with that, you can customize the start menu, the panel, the window, the icons, anything! Since TravelerOS is portable, even if you boot the USB drive in a different computer, it still works the same! TravelerOS is meant for users who want to try/use linux, without installing it to the hard drive, meaning that you can store apps, games, documents, and other stuff without it erasing on reboot. TravelerOS is also meant for users who need help with their hard drive or their current operating system, like fixing the bootloader, partitioning the disk, removing a partition, or erasing the whole disk.
 
